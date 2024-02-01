@@ -1,0 +1,23 @@
+.container {
+    display:flex;
+    margin: auto;
+    padding: auto;
+    /* justify-content: space-evenly;  */
+}
+
+.box1 {
+    margin-right: auto;
+}
+.box2 {
+    margin-left: auto;
+}
+#photo {
+    width: auto;
+    height: 100px;
+}
+.section1 {
+    margin-right: auto;
+}
+.section2 {
+    margin-left: auto;
+}
